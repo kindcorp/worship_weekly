@@ -1,7 +1,5 @@
 'use client';
 
-import Link from 'next/link';
-
 const NAV_LINKS = [
   { label: 'Live Stream', href: '#stream' },
   { label: 'Radio', href: '#radio' },
